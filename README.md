@@ -16,7 +16,7 @@
   * The Streamlit interface allows users to navigate between different visualizations using the sidebar.
   * The dashboard is divided into two tabs: "Chart_Visualizations" and "Map_Visualizations".
 ## Chart Visualizations:
-
+ ![](https://github.com/KarthigaKM/Phonepe-Data-Visualization/blob/main/pie%20chart%20visual.PNG?raw=true)
   * The "Chart_Visualizations" tab contains six sub-tabs, each presenting specific transaction data visualizations for different states.
   * Users can select a state from the dropdown menu to view insights related to transaction types, user demographics, top transactions, and top users based on districts 
     and pincodes.
